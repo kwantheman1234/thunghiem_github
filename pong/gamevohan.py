@@ -7,6 +7,7 @@ wn.title("pong")
 wn.bgcolor('black')
 wn.setup(width=800, height=600)
 wn.tracer(0)
+#sigma alpha skibidi
 
 #test
 
